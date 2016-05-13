@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epistolarumadqu00cicegoog_0399.png"; bbox 0 0 2514 4438; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 180 1115 2346 2010">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 180 1115 2328 1333">
+     <span class='ocr_line' id='line_1_1' title="bbox 180 1115 2328 1333; baseline -0.016 1"><span class='ocrx_word' id='word_1_1' title='bbox 180 1115 2328 1333; x_wconf 35' lang='lat' dir='ltr'>FRANcmclnoToMANN1‘</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 282 1369 2346 2010">
+     <span class='ocr_line' id='line_1_2' title="bbox 503 1369 1957 1564; baseline -0.013 -28"><span class='ocrx_word' id='word_1_2' title='bbox 503 1369 1957 1564; x_wconf 54' lang='grc' dir='ltr'>ῑυιζιεοοκὲὺιτιΔ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 301 1595 2020 1784; baseline -0.013 -36"><span class='ocrx_word' id='word_1_3' title='bbox 301 1595 612 1746; x_wconf 61' lang='lat' dir='ltr'>-1&#39;N</span> <span class='ocrx_word' id='word_1_4' title='bbox 755 1632 2020 1784; x_wconf 66' lang='grc' dir='ltr'>ΕΡιετοιΛΜ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 282 1847 2346 2010; baseline -0.018 1"><span class='ocrx_word' id='word_1_5' title='bbox 282 1847 2140 2010; x_wconf 78' lang='lat' dir='ltr'>CICERONIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 2317 1932 2346 1948; x_wconf 41' lang='grc' dir='ltr'><em>ι</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 331 2058 2093 2643">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 331 2053 2093 2643">
+     <span class='ocr_line' id='line_1_5' title="bbox 331 2058 2031 2250; baseline -0.016 -19"><span class='ocrx_word' id='word_1_7' title='bbox 331 2058 2031 2250; x_wconf 44' lang='grc' dir='ltr'>-ΛοειΡὰΑΤκΕΜ,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 675 2317 2007 2432; baseline -0.017 -5"><span class='ocrx_word' id='word_1_8' title='bbox 675 2355 778 2426; x_wconf 82' lang='lat' dir='ltr'>ne</span> <span class='ocrx_word' id='word_1_9' title='bbox 801 2343 1112 2429; x_wconf 74' lang='lat' dir='ltr'><em>Provincia</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1137 2340 1294 2416; x_wconf 61' lang='lat' dir='ltr'>recl?</span> <span class='ocrx_word' id='word_1_11' title='bbox 1325 2333 1782 2432; x_wconf 67' lang='lat' dir='ltr'><em>adminssranda</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1936 2338 1941 2347; x_wconf 61' lang='lat'><em>⁴</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2002 2317 2007 2323; x_wconf 65' lang='grc'><em>’</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 448 2468 2093 2643; baseline -0.016 1"><span class='ocrx_word' id='word_1_14' title='bbox 448 2468 2093 2643; x_wconf 56' lang='lat' dir='ltr'>COMMENTARLUS</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
